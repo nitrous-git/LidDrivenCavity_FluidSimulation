@@ -18,3 +18,11 @@ Pour pallier la lourdeur des calculs (notamment pour l'interaction des particule
 * **Performance :** Numba (Just-In-Time compiler)
 * **Calcul & Données :** NumPy
 * **Visualisation :** Matplotlib
+
+  
+### Application 3D
+
+Pour une application pratique en trois dimensions, consultez la simulation interactive développée avec Three.js :
+
+- Simulation en ligne : [WaterSim Three.js](https://nitrous-git.github.io/WaterSim_ThreeJs/)
+- Dépôt GitHub : [nitrous-git/WaterSim_ThreeJs](https://github.com/nitrous-git/WaterSim_ThreeJs)
